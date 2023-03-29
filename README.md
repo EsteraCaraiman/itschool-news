@@ -16,16 +16,16 @@ Also, make sure you use your own API key from The Guardian API.
 ## Features
 
 This project has the following features:
-  Display a certain category of news;
-  Display individual news;
-  Pagination;
-  Add/remove news to/from favorites;
+  display a certain category of news;
+  display individual news;
+  pagination;
+  add/remove news to/from favorites;
 
 ## Concepts
 
 During the project, we covers the following concepts:
-    Reusable components;
-    React hooks(useState, useEffect, useReducer, useContext) and custom hooks;
-    Routing;
-    State management(ContextAPI);
+    reusable components;
+    react hooks(useState, useEffect, useReducer, useContext) and custom hooks;
+    routing;
+    state management(ContextAPI);
     CSS Modules;
