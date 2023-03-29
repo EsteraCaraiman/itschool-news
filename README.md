@@ -22,7 +22,7 @@ This project has the following features:
    -Pagination;
    -Add/remove news to/from favorites;
 
-### Concepts
+## Concepts
 
 During the project, we covers the following concepts:
 
