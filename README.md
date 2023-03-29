@@ -16,7 +16,6 @@ Also, make sure you use your own API key from The Guardian API.
 ## Features
 
 This project has the following features:
-
    -Display a certain category of news;
    -Display individual news;
    -Pagination;
@@ -25,10 +24,8 @@ This project has the following features:
 ## Concepts
 
 During the project, we covers the following concepts:
-
     -Reusable components;
     -React hooks(useState, useEffect, useReducer, useContext) and custom hooks;
     -Routing;
     -State management(ContextAPI);
     -CSS Modules;
-    
