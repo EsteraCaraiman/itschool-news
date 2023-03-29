@@ -4,7 +4,7 @@ React project from my web development course @ IT School
 ## Demo
 The project is deployed here: https://itschool-news.netlify.app/
 
-### Local Usage
+## Local Usage
 
 After downloading or cloning the project, run the following commands:
 
@@ -13,7 +13,7 @@ npm start
 
 Also, make sure you use your own API key from The Guardian API.
 
-#### Features
+## Features
 
 This project has the following features:
 
@@ -22,7 +22,7 @@ This project has the following features:
    -Pagination;
    -Add/remove news to/from favorites;
 
-##### Concepts
+### Concepts
 
 During the project, we covers the following concepts:
 
